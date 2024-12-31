@@ -1,3 +1,5 @@
 Main Frame Created
 
 Logout Feature Complete
+
+new Branch 에서 수정된 파일입니다.
